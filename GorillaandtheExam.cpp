@@ -6,8 +6,8 @@ int n,t,k;
 int a[N],dem[N],ts;
 main()
 {
-    freopen("nhap.inp","r",stdin);
-    freopen("nhap.out","w",stdout);
+    //freopen("nhap.inp","r",stdin);
+    //freopen("nhap.out","w",stdout);
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     cin >> t;
