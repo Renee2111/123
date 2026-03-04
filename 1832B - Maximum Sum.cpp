@@ -7,8 +7,8 @@ int main()
     //freopen("nhap.inp","r",stdin);
     //freopen("nhap.out","w",stdout);
     ios::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
+    cin.tie(0);
+    cout.tie(0);
     cin>>t;
     while(t--){
         cin>>n>>k;
